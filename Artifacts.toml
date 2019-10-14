@@ -1,0 +1,89 @@
+[[Xorg_randrproto]]
+arch = "armv7l"
+git-tree-sha1 = "ca63d6520531d269fbe04784432444bb6f681b27"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_randrproto.download]]
+    sha256 = "3768b9bde42cfc9544f32dd99fb6d483916cdd8deed0466e1ff749009e7047d2"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_randrproto_jll.jl/releases/download/Xorg_randrproto-v1.5.0+0/Xorg_randrproto.v1.5.0.arm-linux-gnueabihf.tar.gz"
+[[Xorg_randrproto]]
+arch = "aarch64"
+git-tree-sha1 = "76ef67b06830e4a6893838bf10f4ff59ad6d3a3c"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_randrproto.download]]
+    sha256 = "ad976b9565b5437daae6084cc5ddc5fe62b450f259b837b869ac7ec37ba539b0"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_randrproto_jll.jl/releases/download/Xorg_randrproto-v1.5.0+0/Xorg_randrproto.v1.5.0.aarch64-linux-musl.tar.gz"
+[[Xorg_randrproto]]
+arch = "i686"
+git-tree-sha1 = "37bff7d64294cc71f7cb3a3bcfe9484ce46f1520"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_randrproto.download]]
+    sha256 = "9836d4265a45d08b584c2fc7027c3c25a911fc9b876bd814c4656c79d302e52b"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_randrproto_jll.jl/releases/download/Xorg_randrproto-v1.5.0+0/Xorg_randrproto.v1.5.0.i686-linux-musl.tar.gz"
+[[Xorg_randrproto]]
+arch = "i686"
+git-tree-sha1 = "fe17df51b3ed7bd4165991fb3f795038dbb1e060"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_randrproto.download]]
+    sha256 = "a50138a0e372af3732948f1fb0968750cad374ea3229cfbaf34ad6416d30f49f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_randrproto_jll.jl/releases/download/Xorg_randrproto-v1.5.0+0/Xorg_randrproto.v1.5.0.i686-linux-gnu.tar.gz"
+[[Xorg_randrproto]]
+arch = "x86_64"
+git-tree-sha1 = "58f580dd7209d312b5f2e845c63401092dfb875b"
+os = "freebsd"
+
+    [[Xorg_randrproto.download]]
+    sha256 = "e9df2e92a477b9bf830f26a10b7c1d369be07903b747187e7b8fb4767198bfca"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_randrproto_jll.jl/releases/download/Xorg_randrproto-v1.5.0+0/Xorg_randrproto.v1.5.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_randrproto]]
+arch = "powerpc64le"
+git-tree-sha1 = "2043232c466d2dab70ca7ea0eb7720db0ff895f9"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_randrproto.download]]
+    sha256 = "cc6faedd550e344acf2d4a0633449ec745bf27fe00ddeef0f987d6015fbd4bfc"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_randrproto_jll.jl/releases/download/Xorg_randrproto-v1.5.0+0/Xorg_randrproto.v1.5.0.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_randrproto]]
+arch = "armv7l"
+git-tree-sha1 = "1b02f04442ecba0ae0f6eb6dc397250196a9f5fd"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_randrproto.download]]
+    sha256 = "d7c97b6c6698450e1c2a4ff01d381f249d9ff270a80fedefd16cf4d33ec659df"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_randrproto_jll.jl/releases/download/Xorg_randrproto-v1.5.0+0/Xorg_randrproto.v1.5.0.arm-linux-musleabihf.tar.gz"
+[[Xorg_randrproto]]
+arch = "aarch64"
+git-tree-sha1 = "5cfaeae2b166648d031eded3935fc972962c1f07"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_randrproto.download]]
+    sha256 = "d26e8dcfcd82920e8f12df53bdee5b536c891364499c134e4c2e1f9806649d8d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_randrproto_jll.jl/releases/download/Xorg_randrproto-v1.5.0+0/Xorg_randrproto.v1.5.0.aarch64-linux-gnu.tar.gz"
+[[Xorg_randrproto]]
+arch = "x86_64"
+git-tree-sha1 = "5971242230b1afd833d94551abbe4dc5870c6438"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_randrproto.download]]
+    sha256 = "cd9ed09ae8f32c1dd24f06334b645ab1e6a4d9645e67f45a56eac74b9e3f924c"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_randrproto_jll.jl/releases/download/Xorg_randrproto-v1.5.0+0/Xorg_randrproto.v1.5.0.x86_64-linux-gnu.tar.gz"
+[[Xorg_randrproto]]
+arch = "x86_64"
+git-tree-sha1 = "d39b90dc60b73bd8e8370928b5d7b55d9bf626f3"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_randrproto.download]]
+    sha256 = "c915a19e614d4a83f5199932908bac94a0f66cd04465fa6a9880bc0dcb3abf90"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_randrproto_jll.jl/releases/download/Xorg_randrproto-v1.5.0+0/Xorg_randrproto.v1.5.0.x86_64-linux-musl.tar.gz"

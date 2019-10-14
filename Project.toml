@@ -1,0 +1,10 @@
+name = "Xorg_randrproto_jll"
+uuid = "0e394dc1-71ae-5c65-abe5-8749687e42d3"
+version = "1.5.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.3"
